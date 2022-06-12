@@ -1,7 +1,7 @@
 # 비디오 재생 앱
 AVPlayerViewController를 이용하여 내부 저장 동영상과 외부의 링크된 비디오 파일을 재생하는 앱입니다.
 
-<img src="https://user-images.githubusercontent.com/105588287/173236284-6651ff36-ce80-499b-a016-d2b00961382e.png" width="250" height="600"/> <img src="https://user-images.githubusercontent.com/105588287/173236286-16d10057-9fe7-4ed5-bfc5-16998103f996.png" width="250" height="600"/> <img src="https://user-images.githubusercontent.com/105588287/173236287-89619a25-5225-4fc4-945b-11e3c9e08263.png" width="250" height="600"/>
+<img src="https://user-images.githubusercontent.com/105588287/173236284-6651ff36-ce80-499b-a016-d2b00961382e.png" width="250" height="500"/> <img src="https://user-images.githubusercontent.com/105588287/173236286-16d10057-9fe7-4ed5-bfc5-16998103f996.png" width="250" height="500"/> <img src="https://user-images.githubusercontent.com/105588287/173236287-89619a25-5225-4fc4-945b-11e3c9e08263.png" width="250" height="500"/>
 
 # 환경
 Xcord
